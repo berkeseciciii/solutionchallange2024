@@ -1,0 +1,26 @@
+name: your_app_name
+description: A Flutter application
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+
+# Dependencies are defined in this section
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.9
+
+# Flutter specific configuration
+flutter:
+  assets:
+    - assets/donation.png
+    - assets/settings.png
+    - assets/saving.png
+    - assets/home.png
+    - assets/info.png
+    - assets/profile.png
+    - assets/achievements.png
+    - assets/down.png
+    - assets/sigara.png
+    - assets/back_arrow.png
